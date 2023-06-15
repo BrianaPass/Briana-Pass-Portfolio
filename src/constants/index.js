@@ -23,6 +23,11 @@ import {
     jobit,
     tripguide,
     threejs,
+    expressjs,
+    heroku,
+    mysql,
+    bootstrap,
+  
   } from "../assets";
   
   export const navLinks = [
@@ -42,11 +47,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Frontend Developer",
       icon: mobile,
     },
     {
@@ -54,7 +59,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Personal Projects",
       icon: creator,
     },
   ];
@@ -69,12 +74,12 @@ import {
       icon: css,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+      name: "My SQL",
+      icon: Mysql,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Bootstrap",
+      icon: bootstrap,
     },
     {
       name: "React JS",
@@ -89,7 +94,7 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
+      name: "Node JS", 
       icon: nodejs,
     },
     {
@@ -105,12 +110,12 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "heroku",
+      icon: heroku,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "expressjs",
+      icon: expressjs,
     },
   ];
   
