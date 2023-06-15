@@ -23,10 +23,10 @@ import {
     jobit,
     tripguide,
     threejs,
-    expressjs,
-    heroku,
-    mysql,
-    bootstrap,
+    // expressjs,
+    // heroku,
+    // mysql,
+    // bootstrap,
   
   } from "../assets";
   
@@ -73,14 +73,14 @@ import {
       name: "CSS 3",
       icon: css,
     },
-    {
-      name: "My SQL",
-      icon: Mysql,
-    },
-    {
-      name: "Bootstrap",
-      icon: bootstrap,
-    },
+    // {
+    //   name: "My SQL",
+    //   icon: Mysql,
+    // },
+    // {
+    //   name: "Bootstrap",
+    //   icon: bootstrap,
+    // },
     {
       name: "React JS",
       icon: reactjs,
@@ -109,14 +109,14 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "heroku",
-      icon: heroku,
-    },
-    {
-      name: "expressjs",
-      icon: expressjs,
-    },
+    // {
+    //   name: "heroku",
+    //   icon: heroku,
+    // },
+    // {
+    //   name: "expressjs",
+    //   icon: expressjs,
+    // },
   ];
   
   const experiences = [
