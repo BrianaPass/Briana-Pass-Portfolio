@@ -204,9 +204,30 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Social Media App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "created a command-line program to control an organization's employee database. The back end of the program was created using Node.js, Inquierer, and MySQL",
+      tags: [
+        {
+          name: "Mongodb",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Mongoose",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Express.js",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/BrianaPass/Social-Media-App",
+    },
+    {
+      name: "Recollection App",
+      description:
+        "Full stack MERN app that allows users to engage with others posts based on memories they post to the webiste",
       tags: [
         {
           name: "react",
@@ -217,45 +238,24 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
+          name: "node.js",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/BrianaPass/Recollection-App",
     },
     {
-      name: "Trip Guide",
+      name: "Weather Guide",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A site that allows you to find the weather in any given area",
       tags: [
         {
-          name: "nextjs",
+          name: "javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "html",
           color: "green-text-gradient",
         },
         {
@@ -263,8 +263,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: carrent,
+      source_code_link: "https://github.com/BrianaPass/Weather-Guide",
     },
   ];
   

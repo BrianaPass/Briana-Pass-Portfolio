@@ -26,9 +26,9 @@ import shopify from "../assets/company/shopify.png";
 import starbucks from "../assets/company/starbucks.png";
 import tesla from "../assets/company/telsa.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./src/assets/socialmedia.jpeg";
+import jobit from "./src/assets/recollection.png";
+import tripguide from "./src/assets/weather.png";
 
 export {
   logo,
