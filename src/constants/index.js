@@ -182,7 +182,7 @@ import {
       name: "Ana Petrovic",
       designation: "Professor",
       company: "New York Insitute of Technology",
-      image: "",
+      // image: "",
     },
     {
       testimonial:
@@ -190,7 +190,7 @@ import {
       name: "Steven Giordano",
       designation: "Professor",
       company: "New York Institute of Technology",
-      image: "",
+      // image: "",
     },
     {
       testimonial:
@@ -198,7 +198,7 @@ import {
       name: "Kendelle Mcfarlane",
       designation: "Board Member",
       company: "Hudson Links Incorporated",
-      image: "",
+      // image: "",
     },
   ];
   
